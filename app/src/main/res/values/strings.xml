@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sherlock</string>
+    <string name="selectThief">Указать вора</string>
+    <string name="whoQuestion">Кто украл два кусочка колбаски?</string>
+    <string name="chooseCorrect">Выбрать вора:</string>
+    <string name="crow">Ворона</string>
+    <string name="dog">Сраный песик</string>
+    <string name="cat">Кот Васька</string>
+</resources>
